@@ -132,9 +132,8 @@ export default class LoginView extends React.Component {
                                         </Grid>
                                         <Grid item xs={12}>
                                             <Typography variant="body1">
-                                                Введите свои логин и пароль. Если вы ещё не
-                                                зарегистрированы, то{' '}
-                                                <Link to="/registration">зарегистрируйтесь</Link>.
+                                                Продолжите свой путь в пучинах чата.Если вы ещё не с нами, то{' '}
+                                                <Link to="/registration">станьте чатером</Link>.
                                             </Typography>
                                         </Grid>
                                     </Grid>

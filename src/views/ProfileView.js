@@ -46,6 +46,7 @@ export default class ProfileView extends React.Component {
         const { user } = this.props;
         return (
             <>
+                <audio controls src="http://localhost:3000/public/Mp3.1/welcome.mp3"></audio>
                 <div className="Greentw">Ваш никнейм: {user.nickname}</div>
                 <div className="SeaGreentw">Дата становления чатером: {new Date(user.createdAt).toLocaleString()}</div>
 

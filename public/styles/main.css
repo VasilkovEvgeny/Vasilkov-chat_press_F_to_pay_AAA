@@ -1,0 +1,29 @@
+root {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-image: url("https://images.wallpaperscraft.ru/image/olen_minimalizm_vektor_fon_priroda_93845_1280x720.jpg")
+}
+
+h1 {
+    color: #a2a2a2;
+}
+
+.info {
+    background-color: #ad0000;
+}
+
+#additionalInfo {
+    background-color: #0000ad;
+}
+.Greentw {
+    font-size:17px;
+    color: Green;
+    font-family: "Roboto Thin", sans-serif;
+}
+.SeaGreentw{
+
+    font-size: 16px;
+    color:SeaGreen;
+    font-family: "Roboto Thin", sans-serif;
+}
